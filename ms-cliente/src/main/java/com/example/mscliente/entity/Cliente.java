@@ -11,10 +11,11 @@ import lombok.Data;
 public class Cliente {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    private String direccion;
+    private String telefono;
     private String nombre;
     private String dni;
-    private String telefono;
+    private Integer id;
     private String correo;
-    private String direccion;
+
 }
