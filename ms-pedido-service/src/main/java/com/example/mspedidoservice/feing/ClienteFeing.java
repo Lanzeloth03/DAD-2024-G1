@@ -15,6 +15,7 @@ public interface ClienteFeing {
     public ResponseEntity<ClienteDto> busacarPorId(@PathVariable(required = true) Integer id);
 
     default ResponseEntity<ClienteDto> fallbackClientePorId(Integer id, Exception e) {
+        /*retorna*/
         return ResponseEntity.ok (new ClienteDto());
     }
 }
