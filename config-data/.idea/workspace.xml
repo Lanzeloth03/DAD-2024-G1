@@ -7,14 +7,16 @@
     <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-pedido-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-pedido-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/ProductoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/CategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/CategoriaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/ProductoRepostory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/ProductoRepostory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/ProductoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/ProductoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/MsPedidoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/MsPedidoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/CategoriaDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/CategoriaDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ClienteDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ClienteDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ProductoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ProductoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/PedidoDetalle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/PedidoDetalle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feing/ClienteFeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feing/ClienteFeing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feing/ProductoFeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feing/ProductoFeing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/impl/PedidoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/impl/PedidoServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <workItem from="1712245635737" duration="12000" />
       <workItem from="1712845329363" duration="4767000" />
       <workItem from="1713409237107" duration="845000" />
-      <workItem from="1713443807233" duration="1065000" />
+      <workItem from="1713443807233" duration="4787000" />
     </task>
     <servers />
   </component>

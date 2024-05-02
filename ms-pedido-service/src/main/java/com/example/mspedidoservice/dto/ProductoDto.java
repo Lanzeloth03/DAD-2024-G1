@@ -1,4 +1,9 @@
 package com.example.mspedidoservice.dto;
 
-public class Producto {
+import lombok.Data;
+
+@Data
+public class ProductoDto {
+    private Integer id;
+    private String nombre;
 }

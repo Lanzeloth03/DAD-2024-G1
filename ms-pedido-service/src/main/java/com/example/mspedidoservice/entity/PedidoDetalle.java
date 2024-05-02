@@ -1,9 +1,8 @@
 package com.example.mspedidoservice.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import com.example.mspedidoservice.dto.ClienteDto;
+import com.example.mspedidoservice.dto.ProductoDto;
+import jakarta.persistence.*;
 import lombok.Data;
 
 @Entity
@@ -20,4 +19,6 @@ public class PedidoDetalle {
         this.cantidad = (double) 0;
         this.precio = (double) 0;
     }
+    @Transient
+    private ProductoDto productoDto;
 }
